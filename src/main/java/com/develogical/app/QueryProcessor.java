@@ -12,6 +12,6 @@ public class QueryProcessor {
             return "Oxford University";
         }
 
-        return "a";
+        return "";
     }
 }
